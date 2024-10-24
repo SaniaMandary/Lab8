@@ -56,7 +56,9 @@ public class CustomListTest {
 	}
 
 	@Test
-	
+	public void countCityTest() {
+
+	}
 
 
 }
